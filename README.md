@@ -1,3 +1,3 @@
 # apnacollege
-my firs repo\
+my firs repo
 
